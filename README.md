@@ -4,12 +4,12 @@ A sleek React application for browsing, searching, and inviting users, styled wi
 
 ## ✨ Features
 
--   ** Interactive User Gallery** with data from a local JSON file.
--   ** Real-time Search** filter users by name or email as you type.
--   ** Invitation Management** click to invite users with visual feedback (➕/➖).
--   ** Themed Experience** all user profiles are characters from *The Devil Wears Prada*.
--   ** Skeleton Loading** elegant loading state while data is fetched.
--   ** Success Screen** a celebratory summary after sending invitations.
+-   **Interactive User Gallery** with data from a local JSON file.
+-   **Real-time Search** filter users by name or email as you type.
+-   **Invitation Management** click to invite users with visual feedback (➕/➖).
+-   **Themed Experience** all user profiles are characters from *The Devil Wears Prada*.
+-   **Skeleton Loading** elegant loading state while data is fetched.
+-   **Success Screen** a celebratory summary after sending invitations.
 
 ## 🚀 Technologies Used
 
@@ -118,4 +118,5 @@ Contributions that enhance the fashion theme or functionality are welcome! Pleas
 ---
 
 **Step into the world of high fashion. Start inviting your guests to the exclusive Runway party!**
+
 
